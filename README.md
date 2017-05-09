@@ -5,6 +5,7 @@ Complete weather app that uses react and redux. It uses:
 * Axios
 * React-sparklines
 * Lodash
+* Google maps
 
 > npm install
 > npm start
